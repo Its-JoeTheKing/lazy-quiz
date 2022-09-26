@@ -1,15 +1,15 @@
 [
         {
-            "q": "",
-            "f_ans": ["","",""],
-            "t_ans": "",
-            "level": ""
+            "q": "Wich Language of these is Used for web design ?",
+            "f_ans": ["C++","HTML","Java","Python"],
+            "t_ans": "HTML",
+            "level": "1"
         },
         {
-            "q": "",
-            "f_ans": ["","",""],
-            "t_ans": "",
-            "level": ""
+            "q": "HTML stands for ?",
+            "f_ans": ["Hyper Text Markup Language","High Text Make Language","High Text Makeup Language","Hyper Text Makeup Language"],
+            "t_ans": "Hypertext Markup Language",
+            "level": "1"
         },
         {
             "q": "",
