@@ -4,7 +4,18 @@ import './App.css';
 function App() {
   return (
     <div className="body">
-      
+      <div className="card">
+        <div className="c-1"></div>
+        <div className="c-2">
+          <h2 className="question">The QUestion is bla bla bla bla bla bla bla bal</h2>
+          <div className="questions">
+            <button className="ans">The Answer 1</button>
+            <button className="ans">The Answer 2</button>
+            <button className="ans">The Answer 3</button>
+            <button className="ans">The Answer 4</button>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
