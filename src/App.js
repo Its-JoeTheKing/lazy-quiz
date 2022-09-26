@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 const generate = () => {
-  var num = Math.random()*14
+  var num = Math.floor(Math.random()*14)
   console.log(num);
 }
 generate()
