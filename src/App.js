@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-
+const generate = () => {
+  var num = Math.random(Math.floor()*14)
+  console.log(num);
+}
+generate()
 function App() {
   return (
     <div className="body">
