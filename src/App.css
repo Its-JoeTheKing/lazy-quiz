@@ -37,9 +37,10 @@
 .ans {
     width: 80%;
     margin-left: 10%;
+    font-size: 21px;
     height: 60px;
     margin-top: 30px;
-    background: linear-gradient(to left,rgb(54, 255, 27),rgb(43, 255, 0));
+    background: rgb(228, 65, 155);
     border: 4px solid rgba(255, 255, 255, 0.6);
     border-radius: 30px;
     color: white;
