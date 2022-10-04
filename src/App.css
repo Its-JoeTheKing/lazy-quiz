@@ -40,8 +40,8 @@
     font-size: 21px;
     height: 60px;
     margin-top: 30px;
-    background: rgb(228, 65, 155);
-    border: 4px solid rgba(255, 255, 255, 0.6);
+    background: linear-gradient(to right,#f5480f,#da2c00) ;
+    border: 2px solid rgba(255, 255, 255, 0.6);
     border-radius: 30px;
     color: white;
     font-weight: bold;
