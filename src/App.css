@@ -40,7 +40,7 @@
     font-size: 21px;
     height: 60px;
     margin-top: 30px;
-    background: linear-gradient(to right,#f5480f,#da2c00) ;
+    background: linear-gradient(to right,#ff4d12,#ff633c) ;
     border: 2px solid rgba(255, 255, 255, 0.6);
     border-radius: 30px;
     color: white;
@@ -50,7 +50,7 @@
 .ans:hover {
     cursor: pointer;
     transition: 0.5s;
-    background: rgb(3, 52, 187);
+    background: #ff4d12;
     
 }
 .sco {
