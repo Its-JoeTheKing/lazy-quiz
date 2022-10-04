@@ -49,7 +49,6 @@
 }
 .ans:hover {
     cursor: pointer;
-    transition: 0.5s;
     background: #ff4d12;
     
 }
