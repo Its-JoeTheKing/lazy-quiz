@@ -45,7 +45,7 @@ function App() {
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
       <div className="card">
         <div className="c-1">
-          <h2 className='sco'><i className="fa-solid fa-star"></i> Scores : <span style={{color: color}}>{score}</span></h2>
+          <h2 className='sco'><i className="fa-solid fa-star"></i> Score : <span style={{color: color}}>{score}</span></h2>
           <h2 className='sco'><i className="fa-solid fa-pen"></i> Questions : <span>{count}/14</span></h2>
 
         </div>
